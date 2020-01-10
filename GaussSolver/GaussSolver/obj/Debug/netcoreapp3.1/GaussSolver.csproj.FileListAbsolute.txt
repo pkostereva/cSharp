@@ -1,0 +1,11 @@
+C:\Users\79215\source\repos\GaussSolver\GaussSolver\bin\Debug\netcoreapp3.1\GaussSolver.exe
+C:\Users\79215\source\repos\GaussSolver\GaussSolver\bin\Debug\netcoreapp3.1\GaussSolver.deps.json
+C:\Users\79215\source\repos\GaussSolver\GaussSolver\bin\Debug\netcoreapp3.1\GaussSolver.runtimeconfig.json
+C:\Users\79215\source\repos\GaussSolver\GaussSolver\bin\Debug\netcoreapp3.1\GaussSolver.runtimeconfig.dev.json
+C:\Users\79215\source\repos\GaussSolver\GaussSolver\bin\Debug\netcoreapp3.1\GaussSolver.dll
+C:\Users\79215\source\repos\GaussSolver\GaussSolver\bin\Debug\netcoreapp3.1\GaussSolver.pdb
+C:\Users\79215\source\repos\GaussSolver\GaussSolver\obj\Debug\netcoreapp3.1\GaussSolver.csprojAssemblyReference.cache
+C:\Users\79215\source\repos\GaussSolver\GaussSolver\obj\Debug\netcoreapp3.1\GaussSolver.AssemblyInfoInputs.cache
+C:\Users\79215\source\repos\GaussSolver\GaussSolver\obj\Debug\netcoreapp3.1\GaussSolver.AssemblyInfo.cs
+C:\Users\79215\source\repos\GaussSolver\GaussSolver\obj\Debug\netcoreapp3.1\GaussSolver.dll
+C:\Users\79215\source\repos\GaussSolver\GaussSolver\obj\Debug\netcoreapp3.1\GaussSolver.pdb
