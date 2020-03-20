@@ -1,0 +1,11 @@
+C:\Users\79215\Desktop\avl-tree\avl-tree\bin\Debug\netcoreapp3.1\avl-tree.exe
+C:\Users\79215\Desktop\avl-tree\avl-tree\bin\Debug\netcoreapp3.1\avl-tree.deps.json
+C:\Users\79215\Desktop\avl-tree\avl-tree\bin\Debug\netcoreapp3.1\avl-tree.runtimeconfig.json
+C:\Users\79215\Desktop\avl-tree\avl-tree\bin\Debug\netcoreapp3.1\avl-tree.runtimeconfig.dev.json
+C:\Users\79215\Desktop\avl-tree\avl-tree\bin\Debug\netcoreapp3.1\avl-tree.dll
+C:\Users\79215\Desktop\avl-tree\avl-tree\bin\Debug\netcoreapp3.1\avl-tree.pdb
+C:\Users\79215\Desktop\avl-tree\avl-tree\obj\Debug\netcoreapp3.1\avl-tree.csprojAssemblyReference.cache
+C:\Users\79215\Desktop\avl-tree\avl-tree\obj\Debug\netcoreapp3.1\avl-tree.AssemblyInfoInputs.cache
+C:\Users\79215\Desktop\avl-tree\avl-tree\obj\Debug\netcoreapp3.1\avl-tree.AssemblyInfo.cs
+C:\Users\79215\Desktop\avl-tree\avl-tree\obj\Debug\netcoreapp3.1\avl-tree.dll
+C:\Users\79215\Desktop\avl-tree\avl-tree\obj\Debug\netcoreapp3.1\avl-tree.pdb
